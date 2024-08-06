@@ -27,7 +27,7 @@ Projeto com o objetivo de gerar uma página de um sorteador de números.
 
 Projeto com o objetivo de desenvolver um sorteador de números.
 <p>
-    <img width="500" src="https://github.com/jenifferteixeira/Sorteador/blob/main/src/assets/tela.JPG">
+    <img width="500" src="https://github.com/jenifferteixeira/Sorteador/blob/main/img/tela.JPG">
 </p>
   
 
