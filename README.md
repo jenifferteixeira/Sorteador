@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="https://github.com/jenifferteixeira/natty-or-not/blob/main/assets-git/banner.png">
+    <img width="200" src="https://github.com/jenifferteixeira/natty-or-not/blob/main/assets-git/banner.png">
 </p>
 
 
@@ -26,7 +26,9 @@ Projeto com o objetivo de gerar uma página de um sorteador de números.
 ## 🚀 Resultado
 
 Projeto com o objetivo de desenvolver um sorteador de números.
-
+<p>
+    <img width="500" src="https://github.com/jenifferteixeira/Sorteador/blob/main/src/assets/tela.JPG">
+</p>
   
 
 ## 👨‍💻 Expert
